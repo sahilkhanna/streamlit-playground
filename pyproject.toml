@@ -1,0 +1,14 @@
+[project]
+name = "streamlit-playground"
+version = "0.1.0"
+description = "Streamlit Playground is a collection of interactive Streamlit apps that demonstrate the capabilities of the Streamlit framework. It serves as a resource for developers to learn and explore Streamlit's features through practical examples."
+readme = "README.md"
+requires-python = ">=3.11"
+authors = [
+    { name = "Sahil Khanna" }
+]
+dependencies = [
+    "anywidget>=0.9.21",
+    "plotly>=6.6.0",
+    "streamlit>=1.55.0",
+]
